@@ -1,0 +1,22 @@
+{
+  "name": "dep-check-update",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "argv": "~0.0.2",
+    "async": "~0.9.0",
+    "latest-version": "~1.0.0",
+    "semver": "~4.0.3",
+    "semver-diff": "~2.0.0",
+    "underscore": "~1.7.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "makotot",
+  "license": "MIT"
+}
